@@ -1,2 +1,2 @@
-# yobazlogger
-logger for idiots
+# nothing
+
